@@ -11,7 +11,7 @@ A simple Python Movie Ticket Booking System - View movies, check showtimes, sele
   
 **Technologies used**
 **python**
-lists
-loops
-functions
-if-else Conditions
+-lists
+-loops
+-functions
+-if-else Conditions

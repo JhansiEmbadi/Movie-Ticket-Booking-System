@@ -10,7 +10,7 @@ A simple Python Movie Ticket Booking System - View movies, check showtimes, sele
 - View Booking
   
 **Technologies used**
-**python**
+#python#
 -lists
 -loops
 -functions
